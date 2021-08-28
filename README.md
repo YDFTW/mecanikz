@@ -1,4 +1,4 @@
-# mekanikz
+# mecaso
 
 Ce package est libre : vous pouvez le redistribuer et/ou le modifie selon les termes de la Licence Publique Générale GNU, version 3 de la licence, ou (à votre choix) toute version ultérieure.
 
